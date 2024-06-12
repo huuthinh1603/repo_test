@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <remote name="ttf" fetch="https://github.com/huuthinh1603" review="" />
+
+  <project path="chip8_emulator" name="chip8_emulator" remote="ttf" revision="master" />
+
+</manifest>
